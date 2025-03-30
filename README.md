@@ -37,3 +37,5 @@ Note: don't apply it multiple times, as it will crop proportionnaly to the exist
 
 This works great! I did have to change the call to `exiftool` to use `/opt/homebrew/bin/exiftool`.
 Just run `which exiftool` after installation and use the path there.
+
+For the iPad, just export originals and copy to Mac or use the Cloud Transfer option. This transfers edits and ratings, but seems to leave the user crop info in tact so I can run this script and have the in camera crop applied.

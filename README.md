@@ -31,3 +31,9 @@ Note: don't apply it multiple times, as it will crop proportionnaly to the exist
 
 # If you like it...
 [Buy me coffee! Thanks!](https://buymeacoff.ee/KJoYI9Dnz)
+
+
+# Note 2025-03-30
+
+This works great! I did have to change the call to `exiftool` to use `/opt/homebrew/bin/exiftool`.
+Just run `which exiftool` after installation and use the path there.
